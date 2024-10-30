@@ -37,13 +37,13 @@ const Hero = () => {
       {/* Bottom-left SVG */}
 
       {/* Main Content */}
-      <div className="flex w-3/5 p-3 justify-center relative z-2">
+      <div className="flex w-11/12 md:w-9/12 lg:w-3/5 p-3 justify-center relative z-2">
         <div className="flex flex-col items-center">
           <h1 className="text-[86px] text-[#f6f6f8] font-bold NTR">
-            <span className="NTR flex">
-              Hi, I'm&nbsp;{" "}
-              <span className="text-[#f77769] NTR flex">
-                Haitham
+            <span className="NTR flex flex-col items-center md:flex-row w-full ">
+              Hi, I'm&nbsp;
+              <span className="text-[#f77769]  flex">
+                <span className="NTR">Haitham</span>
                 <span className="text-[61px] mt-1 NTR">
                   <Typewriter
                     options={{
@@ -57,9 +57,9 @@ const Hero = () => {
             </span>
           </h1>
           <p className="text-[22px] w-4/5 text-center text-[#f6f6f8] leading-10">
-            I'm Haitham Dihaji, a passionate software developer from Casablanca,
-            currently in my third year of a Bachelor’s in Computer Science. I
-            love building web apps that simplify daily life.
+            I'm a passionate software developer from Casablanca, currently in my
+            third year of a Bachelor’s in Computer Science. I love building web
+            apps that simplify daily life.
           </p>
         </div>
       </div>

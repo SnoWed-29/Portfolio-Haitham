@@ -2,8 +2,8 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <nav className="w-full px-6 py-3 flex justify-between shadow-md border-b bg-[#f6f6f8] border-b-[#96f8f8] fixed z-10">
-      <div className="flex space-x-5 mx-auto w-full md:w-full lg:w-3/5  p-1 ">
+    <nav className="w-full px-6 py-3 flex justify-between shadow-md border-b bg-[#f6f6f8] border-b-[#96f8f8] fixed z-30">
+      <div className="hidden md:flex space-x-5 mx-auto w-full md:w-full lg:w-3/5  p-1 ">
         <a
           href="#"
           className="font-semibold text-[#0d0e12] hover:text-[#f77769]"
@@ -34,7 +34,7 @@ const Navbar = () => {
           About
         </a>
       </div>
-      <div className="flex space-x-4 justify-end text-[#0d0e12] text-2xl w-1/3">
+      <div className="flex space-x-4 justify-start md:justify-end text-[#0d0e12] text-2xl w-1/3">
         <a href="" className="hover:text-[#4078c0]">
           <i class="fa-brands fa-github"></i>
         </a>

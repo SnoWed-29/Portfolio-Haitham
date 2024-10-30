@@ -4,7 +4,7 @@
         "title": "CS2 Case Openning",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid dicta officiis sunt harum!",
         "techs":["Laravel", "jQuery", "MySQL"],
-        "image": "https://placehold.co/600x400",
+        "image": "https://images8.alphacoders.com/132/1329760.jpeg",
         "link": "https://github.com/SnoWed-29/CS2-Gambling"
       },
       {
@@ -18,7 +18,7 @@
         "title": "Next js Blog",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid dicta officiis sunt harum!",
         "techs":["NextJs", "Sanity", "TypeScript"],
-        "image": "https://placehold.co/800x600",
+        "image": "https://i.ibb.co/JQ06DrX/Screenshot-2024-10-30-203019.png",
         "link": "https://github.com/SnoWed-29/ytnext"
       },{
         "title": "Instrummon E-commerce ",
