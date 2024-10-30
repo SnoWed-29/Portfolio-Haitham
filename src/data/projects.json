@@ -1,0 +1,32 @@
+{
+    "projects": [
+      {
+        "title": "CS2 Case Openning",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid dicta officiis sunt harum!",
+        "techs":["Laravel", "jQuery", "MySQL"],
+        "image": "https://placehold.co/600x400",
+        "link": "https://github.com/SnoWed-29/CS2-Gambling"
+      },
+      {
+        "title": "ThreeJs Porfolio",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid dicta officiis sunt harum!",
+        "techs":["ReactJS", "ThreeJs", "TailwindCss"],
+        "image": "https://placehold.co/600x400",
+        "link": "https://github.com/SnoWed-29/portfolio-react-three"
+      },
+      {
+        "title": "Next js Blog",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid dicta officiis sunt harum!",
+        "techs":["NextJs", "Sanity", "TypeScript"],
+        "image": "https://placehold.co/800x600",
+        "link": "https://github.com/SnoWed-29/ytnext"
+      },{
+        "title": "Instrummon E-commerce ",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid dicta officiis sunt harum!",
+        "techs":["Laravel", "jQuery", "MySQL", "TailwindCss"],
+        "image": "https://placehold.co/600x400",
+        "link": "https://github.com/SnoWed-29/instrumoon-laravel"
+      }
+    ]
+  }
+  

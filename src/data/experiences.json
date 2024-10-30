@@ -1,0 +1,46 @@
+{
+    "experience": [
+      {
+        "title": "Full Stack Laravel Developer",
+        "company": "HAZAR",
+        "duration": "June 2024 - September 2024",
+        "responsibilities": [
+          "Development and deployment of web applications with Laravel.",
+          "Development of frontend and backend web applications using Laravel, TailwindCSS, Bootstrap, and jQuery.",
+          "Maintenance of web applications in Laravel."
+        ]
+      },
+      {
+        "title": "Full Stack Laravel Developer",
+        "company": "FIELDS HIGH SCHOOL",
+        "duration": "March 2024 - May 2024",
+        "responsibilities": [
+          "Development of a Laravel application for student management and their payments.",
+          "Setup of an Ubuntu server to host the Laravel application.",
+          "Deployment of the Laravel application on the Ubuntu server, ensuring its availability and functionality.",
+          "Configuration of server security to protect the application and student data.",
+          "Ongoing maintenance of the server and application to ensure optimal performance and regular updates."
+        ]
+      },
+      {
+        "title": "Full Stack Laravel Developer",
+        "company": "MD Call Center",
+        "duration": "February 2024 - March 2024",
+        "responsibilities": [
+          "Development and deployment of web applications with Laravel.",
+          "Development of frontend and backend web applications using Laravel, TailwindCSS, Bootstrap, and jQuery.",
+          "Maintenance of web applications in Laravel."
+        ]
+      },
+      {
+        "title": "Full Stack Laravel Developer",
+        "company": "AVENTAGES",
+        "duration": "December 2023 - January 2024",
+        "responsibilities": [
+          "Development and deployment of web applications with Laravel.",
+          "Development of frontend and backend web applications using .NET and AngularJS."
+        ]
+      }
+    ]
+  }
+  
