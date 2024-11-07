@@ -8,7 +8,7 @@ const About = () => {
       id="About"
       className=" w-full h-screen flex flex-col items-center justify-center relative overflow-hidden"
     >
-      <div className="w-11/12 md:w-11/12 lg:w-11/12 xl:w-7/12  mx-auto  z-0">
+      <div className="w-11/12 mt-28 lg:mt-0 md:w-11/12 lg:w-11/12 xl:w-7/12  mx-auto  z-0">
         <div className="flex w-full px-4 py-2 bg-white rounded-xl shadow-xl my-2">
           <h1 className="text-[46px] text-[#0d0e12] w-full flex justify-between items-center">
             <span className="titleHeader NTR w-fit ">/ about me</span>

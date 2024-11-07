@@ -7,15 +7,15 @@ const Projects = () => {
       className=" h-screen w-full flex flex-col items-center justify-center relative overflow-hidden bg-[#0d0e12]"
       id="Projects"
     >
-      <div className="flex w-full items-center justify-center flex-col items-center">
+      <div className="flex mt-16 lg:mt-0 w-full items-center justify-center flex-col items-center">
         <h1 className="titleHeader NTR w-fit text-[#f77769] text-[33px]">
           Projects
         </h1>
-        <span className="text-[60px] text-white NTR">
+        <span className="text-[60px] text-white NTR text-center">
           built to enhance my skills and fueled by passion and creativity.
         </span>
       </div>
-      <div className="flex w-7/12 mx-auto p-2">
+      <div className="flex w-full lg:w-7/12 mx-auto p-2">
         <Carousel />
       </div>
 

@@ -17,9 +17,7 @@
         "responsibilities": [
           "Development of a Laravel application for student management and their payments.",
           "Setup of an Ubuntu server to host the Laravel application.",
-          "Deployment of the Laravel application on the Ubuntu server, ensuring its availability and functionality.",
-          "Configuration of server security to protect the application and student data.",
-          "Ongoing maintenance of the server and application to ensure optimal performance and regular updates."
+          "Deployment of the Laravel application on the Ubuntu server, ensuring its availability and functionality."
         ]
       },
       {

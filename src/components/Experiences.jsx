@@ -18,8 +18,8 @@ const Experiences = () => {
           Professional Experience
         </h1>
       </div>
-      <div className="flex space-x- w-7/12 mx-auto p-1 rounded-b-xl z-10">
-        <div className="w-1/3 p-4 flex flex-col space-y-3">
+      <div className="flex flex-col lg:flex-row w-full lg:w-7/12 mx-auto p-1 rounded-b-xl z-10">
+        <div className="w-full md:w-1/3 p-4 flex flex-col space-y-3">
           {experiencesData.experience.map((exp, index) => (
             <span
               key={index}
@@ -35,7 +35,7 @@ const Experiences = () => {
             </span>
           ))}
         </div>
-        <div className="w-2/3 p-4 flex flex-col space-y-3 px-6 py-4 overflow-y-auto bg-[#0d0e12] shadow-xl z-10">
+        <div className="w-full md:w-2/3 p-4 flex flex-col space-y-3 px-6 py-4 overflow-y-auto bg-[#0d0e12] max-h-fit-content shadow-xl z-10">
           <h1 className="text-[#f6f6f6] NTR text-[33px]">
             {selectedExperience.title}{" "}
             <span className="NTR text-[33px] text-[#96f8f8]">
